@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/drawable-v24/btn_background.xml" value="0.1755" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_add_card.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_add_events.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_add_product.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_addto_cart.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_choose_actor.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_customer_account_card.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_customer_home.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_customer_login.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_customer_register.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_manage_bag.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_select_payment_method.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_seller_home.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_seller_login.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_seller_register.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_view_events.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/activity_view_products.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_addto_cart.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_bagitem_list.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_bagitems_update.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_card_details.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_event_list.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_event_update.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_product_list.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_product_update.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DressHub/app/src/main/res/layout/custom_update_card_details.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Sachintha D/Desktop/MAD-final/DressHub/DressHub/app/src/main/res/layout/activity_add_card.xml" value="0.2351851851851852" />
+        <entry key="..\:/github/MAD-project/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/github/MAD-project/app/src/main/res/layout/activity_choose_actor.xml" value="0.25" />
+        <entry key="..\:/github/MAD-project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/github/MAD-project/app/src/main/res/layout/activity_seller_home.xml" value="0.25" />
+        <entry key="..\:/github/MAD-project/app/src/main/res/layout/activity_seller_login.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

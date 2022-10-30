@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757637302444",
+    "project_id": "clothing-application-75364",
+    "storage_bucket": "clothing-application-75364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757637302444:android:c8a6768fdd7f6531d1b709",
+        "android_client_info": {
+          "package_name": "com.tech.dresshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757637302444-b8gpi9rktobhbd2vb0qbol9p8f73r559.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV7p802sI2X5Yf10HReW5bQyAaE1j8nWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757637302444-b8gpi9rktobhbd2vb0qbol9p8f73r559.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
