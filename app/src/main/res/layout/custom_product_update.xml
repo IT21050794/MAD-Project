@@ -23,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/aclonica"
                 android:gravity="center"
-                android:text="Dress Hub"
+                android:text="Kleren Designs"
                 android:textColor="#000000"
                 android:textSize="34sp"
                 android:textStyle="bold" />
@@ -67,7 +67,7 @@
                 android:layout_margin="10dp"
                 android:background="@drawable/btn_background"
                 android:ems="10"
-                android:hint="Matireal of the dress"
+                android:hint="Material of the dress"
                 android:inputType="textPersonName"
                 android:paddingLeft="8dp"
                 tools:ignore="TouchTargetSizeCheck" />
@@ -103,7 +103,7 @@
                 android:layout_margin="10dp"
                 android:background="@drawable/btn_background"
                 android:ems="10"
-                android:hint="dPrice"
+                android:hint="Price"
                 android:inputType="textPersonName"
                 android:paddingLeft="8dp"
                 tools:ignore="TouchTargetSizeCheck" />
