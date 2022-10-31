@@ -23,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/aclonica"
                 android:gravity="center"
-                android:text="Dress Hub"
+                android:text="Kleren Designs"
                 android:textColor="#000000"
                 android:textSize="34sp"
                 android:textStyle="bold" />
